@@ -27,7 +27,7 @@ namespace Tyuiu.TiasinIA.Sprint2.Task1.V4
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
             Console.WriteLine("***************************************************************************");
-            Console.WriteLine("* x = 135, y = 755                                                        *");
+            Console.WriteLine("* a = 175, b = 176, c = 414, d = 414                                      *");
             Console.WriteLine("***************************************************************************");
 
             int a = 175;
@@ -52,3 +52,8 @@ namespace Tyuiu.TiasinIA.Sprint2.Task1.V4
         }
     }
 }
+
+
+
+
+
