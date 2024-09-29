@@ -78,7 +78,6 @@ namespace Tyuiu.TiasinIA.Sprint2.Task5.V13
 
 
             Console.ReadLine();
-
         }
     }
 }
