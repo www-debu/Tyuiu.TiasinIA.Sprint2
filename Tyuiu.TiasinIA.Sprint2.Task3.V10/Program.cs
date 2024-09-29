@@ -1,5 +1,5 @@
-﻿using Tyuiu.TiasinIA.Sprint2.Task2.V9.Lib;
-namespace Tyuiu.TiasinIA.Sprint2.Task2.V9
+﻿using Tyuiu.TiasinIA.Sprint2.Task3.V10.Lib;
+namespace Tyuiu.TiasinIA.Sprint2.Task3.V10
 {
     internal class Program
     {
@@ -11,39 +11,39 @@ namespace Tyuiu.TiasinIA.Sprint2.Task2.V9
 
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* спринт #2                                                               *");
-            Console.WriteLine("* Тема : Оператор if и короткая форма записи                              *");
-            Console.WriteLine("* Задание #2                                                              *");
-            Console.WriteLine("* Вариант #9                                                              *");
+            Console.WriteLine("* Тема : Вложенные операторы if - else                                    *");
+            Console.WriteLine("* Задание #3                                                              *");
+            Console.WriteLine("* Вариант #10                                                             *");
             Console.WriteLine("* Выполнил: Тясин Илья Александрович | АСОиУб-24-1                        *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
-            Console.WriteLine("* Написать программу на, которая запрашивает целые значения с клавиатуры  *");
-            Console.WriteLine("* и вычисляет находится ли точка с координатами X,Y                       *");
-            Console.WriteLine("* в заштрихованной области.                                               *");
+            Console.WriteLine("* Написать программу, которая вычисляет требуемое значение функции Y с    *");
+            Console.WriteLine("* использованием вложенных оператор if-else, где пользователь вводит      *");
+            Console.WriteLine("* значение переменной X с клавиатуры. Округлить полученное значение       *");
+            Console.WriteLine("* до трех знаков после запятой;                                           *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("*                                                                         *");
             Console.WriteLine("***************************************************************************");
 
-
-            int x = 0;
-            int y = 0;
+            double x = 0;
+            
 
             Console.WriteLine("Введите значение x: ");
-            x = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Введите значение y: ");
-            y = Convert.ToInt32(Console.ReadLine());
+            x = Convert.ToDouble(Console.ReadLine());
 
-
-            bool res = true;
-            res = ds.CheckDotInShadedArea(x, y);
+            
+            
 
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
 
-            Console.WriteLine(res);
+
+                Console.WriteLine(ds.Calculate(x));
+            
+
             Console.ReadLine();
         }
     }
