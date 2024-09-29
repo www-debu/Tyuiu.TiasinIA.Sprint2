@@ -29,27 +29,27 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.TiasinIA.Sprint2.Task
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task3", "Task3", "{17105B3C-BF78-40EE-A13F-52ECC42D78BC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.TiasinIA.Sprint2.Task3.V10", "Tyuiu.TiasinIA.Sprint2.Task3.V10\Tyuiu.TiasinIA.Sprint2.Task3.V10.csproj", "{8C90518B-6884-4586-887B-0702F824B353}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.TiasinIA.Sprint2.Task3.V10", "Tyuiu.TiasinIA.Sprint2.Task3.V10\Tyuiu.TiasinIA.Sprint2.Task3.V10.csproj", "{8C90518B-6884-4586-887B-0702F824B353}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.TiasinIA.Sprint2.Task3.V10.Lib", "Tyuiu.TiasinIA.Sprint2.Task3.V10.Lib\Tyuiu.TiasinIA.Sprint2.Task3.V10.Lib.csproj", "{797937AB-AED8-43A6-9A15-8EDA3B0E5461}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.TiasinIA.Sprint2.Task3.V10.Lib", "Tyuiu.TiasinIA.Sprint2.Task3.V10.Lib\Tyuiu.TiasinIA.Sprint2.Task3.V10.Lib.csproj", "{797937AB-AED8-43A6-9A15-8EDA3B0E5461}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.TiasinIA.Sprint2.Task3.V10.Test", "Tyuiu.TiasinIA.Sprint2.Task3.V10.Test\Tyuiu.TiasinIA.Sprint2.Task3.V10.Test.csproj", "{CD6DFB87-8B7E-4968-920F-17430BF12A2B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.TiasinIA.Sprint2.Task3.V10.Test", "Tyuiu.TiasinIA.Sprint2.Task3.V10.Test\Tyuiu.TiasinIA.Sprint2.Task3.V10.Test.csproj", "{CD6DFB87-8B7E-4968-920F-17430BF12A2B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task4", "Task4", "{D68D2B76-5E66-449F-B5DB-699A0ACF8ADC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.TiasinIA.Sprint2.Task4.V21", "Tyuiu.TiasinIA.Sprint2.Task4.V21\Tyuiu.TiasinIA.Sprint2.Task4.V21.csproj", "{28C7A3C8-ED48-463F-BBDD-EFE29CC499FF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.TiasinIA.Sprint2.Task4.V21", "Tyuiu.TiasinIA.Sprint2.Task4.V21\Tyuiu.TiasinIA.Sprint2.Task4.V21.csproj", "{28C7A3C8-ED48-463F-BBDD-EFE29CC499FF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.TiasinIA.Sprint2.Task4.V21.Lib", "Tyuiu.TiasinIA.Sprint2.Task4.V21.Lib\Tyuiu.TiasinIA.Sprint2.Task4.V21.Lib.csproj", "{1BBEC4CA-8B2A-4E0F-ACA1-5A2E4F33C095}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.TiasinIA.Sprint2.Task4.V21.Lib", "Tyuiu.TiasinIA.Sprint2.Task4.V21.Lib\Tyuiu.TiasinIA.Sprint2.Task4.V21.Lib.csproj", "{1BBEC4CA-8B2A-4E0F-ACA1-5A2E4F33C095}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.TiasinIA.Sprint2.Task4.V21.Test", "Tyuiu.TiasinIA.Sprint2.Task4.V21.Test\Tyuiu.TiasinIA.Sprint2.Task4.V21.Test.csproj", "{7E4AA0D9-37F8-45F9-9937-79D7D8A9BE91}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.TiasinIA.Sprint2.Task4.V21.Test", "Tyuiu.TiasinIA.Sprint2.Task4.V21.Test\Tyuiu.TiasinIA.Sprint2.Task4.V21.Test.csproj", "{7E4AA0D9-37F8-45F9-9937-79D7D8A9BE91}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task5", "Task5", "{4D93969D-EC5C-48AC-B1E3-51C7C95F75AA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.TiasinIa.Sprint2.Task5.V13", "Tyuiu.TiasinIa.Sprint2.Task5.V13\Tyuiu.TiasinIa.Sprint2.Task5.V13.csproj", "{19D79B5E-485B-40CE-BC9E-75E2A3B826AC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.TiasinIA.Sprint2.Task5.V13", "Tyuiu.TiasinIa.Sprint2.Task5.V13\Tyuiu.TiasinIA.Sprint2.Task5.V13.csproj", "{19D79B5E-485B-40CE-BC9E-75E2A3B826AC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.TiasinIa.Sprint2.Task5.V13.Lib", "Tyuiu.TiasinIa.Sprint2.Task5.V13.Lib\Tyuiu.TiasinIa.Sprint2.Task5.V13.Lib.csproj", "{DD4C5A2B-94E1-4540-A9B8-81987F043903}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.TiasinIA.Sprint2.Task5.V13.Lib", "Tyuiu.TiasinIa.Sprint2.Task5.V13.Lib\Tyuiu.TiasinIA.Sprint2.Task5.V13.Lib.csproj", "{DD4C5A2B-94E1-4540-A9B8-81987F043903}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.TiasinIa.Sprint2.Task5.V13.Test", "Tyuiu.TiasinIa.Sprint2.Task5.V13.Test\Tyuiu.TiasinIa.Sprint2.Task5.V13.Test.csproj", "{280506FC-568D-4383-B7F4-4E7BAB0FDABF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.TiasinIA.Sprint2.Task5.V13.Test", "Tyuiu.TiasinIa.Sprint2.Task5.V13.Test\Tyuiu.TiasinIA.Sprint2.Task5.V13.Test.csproj", "{280506FC-568D-4383-B7F4-4E7BAB0FDABF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

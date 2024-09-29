@@ -1,5 +1,5 @@
 ﻿using tyuiu.cources.programming.interfaces.Sprint2;
-namespace Tyuiu.TiasinIa.Sprint2.Task5.V13.Lib
+namespace Tyuiu.TiasinIA.Sprint2.Task5.V13.Lib
 {
     public class DataService : ISprint2Task5V13
     {
