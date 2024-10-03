@@ -5,7 +5,7 @@ namespace Tyuiu.TiasinIA.Sprint2.Task7.V1.Lib
     {
         public bool CheckDotInShadedArea(double x, double y)
         {
-            bool res;
+            
 
             if ((Math.Pow(x,2) - Math.Pow(y, 2) <= 0) && (y - x >= 0) && (y + x <= 0))
             {
