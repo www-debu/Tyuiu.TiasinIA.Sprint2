@@ -24,6 +24,17 @@ namespace Tyuiu.TiasinIA.Sprint2.Task5.V13.Test
             {
                 ds.FindDateOfNextDay(32, 13, 1989);
             });
-        }
+
+
+
+
+           // if ((m == 2) && (n > 0) && (n < 29))
+            //{
+//n = n + 1;
+          //  }
+           // else
+           // {
+           //     Console.WriteLine("„исло дн€ задано некорректно. ¬ведите число от 1 до 31");
+            }
     }
 }
