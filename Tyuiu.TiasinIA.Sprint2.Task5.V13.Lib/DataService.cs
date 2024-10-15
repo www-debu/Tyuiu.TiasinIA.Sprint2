@@ -63,7 +63,7 @@ public class DataService : ISprint2Task5V13
                     Console.WriteLine("Число дня задано некорректно. Введите число от 1 до 31");
                 }
             
-                return n + "." + a + "." + g + " Год";
+                return  "0" + n + "." + a + "." + g;
             
         //}
        // else
